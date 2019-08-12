@@ -16,8 +16,11 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "lint": "./node_modules/.bin/eslint ./"
   },
+  "homepage": "https://hwangjf.github.io/challenge-6-list-users",
   "devDependencies": {
     "gh-pages": "^2.1.1"
   },
