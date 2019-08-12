@@ -10,7 +10,7 @@ const User = (props) => {
       return capitalizedStr
     }).join(' ')
   }
-  console.log(props)
+
   return (
     <div onClick={() => props.toggleInterest(props)} className="user" style={{border: props.interest ? '15px green solid' : null}}>
       <div className="picture">
