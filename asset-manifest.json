@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/challenge-6-list-users/static/css/main.a49fe5fa.chunk.css",
+    "main.js": "/challenge-6-list-users/static/js/main.c61405b4.chunk.js",
+    "main.js.map": "/challenge-6-list-users/static/js/main.c61405b4.chunk.js.map",
+    "runtime~main.js": "/challenge-6-list-users/static/js/runtime~main.83bc6a21.js",
+    "runtime~main.js.map": "/challenge-6-list-users/static/js/runtime~main.83bc6a21.js.map",
+    "static/js/2.8aab1c3b.chunk.js": "/challenge-6-list-users/static/js/2.8aab1c3b.chunk.js",
+    "static/js/2.8aab1c3b.chunk.js.map": "/challenge-6-list-users/static/js/2.8aab1c3b.chunk.js.map",
+    "index.html": "/challenge-6-list-users/index.html",
+    "precache-manifest.ec1aefcc538a15597e1eadb8e59d339b.js": "/challenge-6-list-users/precache-manifest.ec1aefcc538a15597e1eadb8e59d339b.js",
+    "service-worker.js": "/challenge-6-list-users/service-worker.js",
+    "static/css/main.a49fe5fa.chunk.css.map": "/challenge-6-list-users/static/css/main.a49fe5fa.chunk.css.map"
+  }
+}
